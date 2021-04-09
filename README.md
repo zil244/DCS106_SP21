@@ -1,2 +1,2 @@
-# DCS106_SP21
-DCS Homework
+# DSC106_SP21
+DSC Homework
